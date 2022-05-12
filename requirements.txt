@@ -1,0 +1,10 @@
+numpy
+ipykernel
+ipython
+scikit-learn
+scipy
+seaborn
+prettyprint
+opencv-python
+scikit-image
+mpld3
